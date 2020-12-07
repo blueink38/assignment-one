@@ -16,7 +16,8 @@ According to the assignment prompt:
 > As a marketing agency I want a database that follows accessibility standards so that our own site is optimized for search engines.
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Horiseon Header](./img/horiseon-header.png)
+![Horiseon Hero](./img/horiseon-hero.png)
 
 ## Technologies
 * HTML5
@@ -53,36 +54,7 @@ $ code index.html`
         </div>
     </div>
     <!-- end benefits -->
-`
-`/* start new consolidated benefits section*/
-.benefits {
-    margin-right: 20px;
-    padding: 20px;
-    clear: both;
-    float: right;
-    width: 20%;
-    height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
-}
 
-.benefits-title {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefits h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefits img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-/* end new consolidated benefits section */
 `
 
 ## Features
