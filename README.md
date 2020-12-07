@@ -16,8 +16,8 @@ According to the assignment prompt:
 > As a marketing agency I want a database that follows accessibility standards so that our own site is optimized for search engines.
 
 ## Screenshots
-![Horiseon Header](./img/horiseon-header.png)
-![Horiseon Hero](./img/horiseon-hero.png)
+![Horiseon Header](./images/horiseon-header.png)
+![Horiseon Hero](./images/horiseon-hero.png)
 
 ## Technologies
 * HTML5
