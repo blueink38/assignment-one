@@ -81,4 +81,5 @@ This project is still in progress.  This is the first "final product" that will 
 This project and even more the jump into the world of programming is to learn new skills and enter a new technology field!
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+[Jason Fletcher](blueink38@yahoo.com)
+[Horiseon](blueink38.github.io/assignment-one/)
