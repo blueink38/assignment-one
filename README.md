@@ -16,20 +16,22 @@ According to the assignment prompt:
 > As a marketing agency I want a database that follows accessibility standards so that our own site is optimized for search engines.
 
 ## Screenshots
-![Horiseon Header](./images/horiseon-header.png)
-![Horiseon Hero](./images/horiseon-hero.png)
+[Horiseon Header](./images/horiseon-header.png)
+[Horiseon Hero](./images/horiseon-hero.png)
 
 ## Technologies
 * HTML5
 * CSS#
 
 ## Setup
-`$ cd ..
-$ code index.html`
-
+```
+$ cd ..
+$ code index.html
+```
 ## Code Examples
 
-`    <!-- start benefits -->
+```
+    <!-- start benefits -->
     <div class="benefits">
         <div class="benefits-title">
             <h3>Lead Generation</h3>
@@ -54,8 +56,7 @@ $ code index.html`
         </div>
     </div>
     <!-- end benefits -->
-
-`
+```
 
 ## Features
 List of features ready and TODOs for future development
